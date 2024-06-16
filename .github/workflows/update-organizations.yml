@@ -22,7 +22,7 @@ jobs:
 
       - name: Fetch GitHub Organizations
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: node fetchOrganizations.js # Replace with your script name
 
       - name: Commit and push if changes
