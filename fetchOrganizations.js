@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-const githubToken = process.env.GITHUB_TOKEN;
+const githubToken = process.env.TOKEN;
 const username = "uwaagbai1";
 
 const query = `
