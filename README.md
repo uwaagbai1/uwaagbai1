@@ -1,6 +1,6 @@
 # Hello, I'm Uwa Agbai 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6704E5,100:E50E42&height=160&section=header&text=Welcome%20to%20my%20GitHub%20profile!%20I'm%20a%20passionate%20DevOps%20and%20Backend%20developer%20with%20a%20knack%20for%20building%20efficient%20systems%20and%20dabbling%20in%20a%20bit%20of%20React%20for%20the%20frontend.&fontColor=FFFFFF&fontSize=45&reversal=true&fontAlignY=30)
+Welcome to my GitHub profile! I'm a passionate DevOps and Backend developer with a knack for building efficient systems and dabbling in a bit of React for the frontend. Here’s a little about me and the technologies I work with.
 
 ## 🌐 Connect with Me
 
