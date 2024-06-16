@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps and Backend developer with
 
 ## 📊 GitHub Stats
 
-[![Uwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaagbai1)](https://github.com/anuraghazra/github-readme-stats)
+[![Uwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaagbai1)](https://github.com/uwaagbai1/github-readme-stats)
 
 ## 📫 How to Reach Me
 
