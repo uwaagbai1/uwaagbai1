@@ -13,13 +13,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps and Backend developer with
 [![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://uwaagbai.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwaagbai@outlook.com)
 
-## 💼 GitHub Organizations
-
-I am proud to be a member of the following GitHub organizations:
-
-<!-- ORGANIZATIONS-LIST:START -->
-<!-- ORGANIZATIONS-LIST:END -->
-
 ## 🛠️ Tech Stack
 
 ### DevOps
