@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps and Backend developer with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uwa-agbai)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/uwaagbai)
 [![Hashnode](https://img.shields.io/badge/Hashnode-%23333333.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@wacodev)
-
 [![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://uwaagbai.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwaagbai@outlook.com)
 
@@ -59,12 +58,8 @@ Welcome to my GitHub profile! I'm a passionate DevOps and Backend developer with
 
 ## 📊 GitHub Stats
 
-![Uwa Agbai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwaagbai&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&line_height=25&card_width=900px&show_icons=true&rank_icon=github)
-![Uwa Agbai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uwaagbai&theme=synthwave&hide_border=true&card_width=900px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwaagbai&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=900)
+[![Uwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaagbai1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
 
 Feel free to reach out to me via email or connect with me on social media!
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6704E5,100:E50E42&height=130&section=footer&fontColor=FFFFFF&fontSize=30&reversal=true&fontAlignY=70)
