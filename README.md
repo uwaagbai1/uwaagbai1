@@ -3,10 +3,11 @@
 I'm an Embedded Systems Engineer specialising in edge AI, FPGA development, and low-level firmware. Currently completing my MSc in Embedded Systems and IoT at Newcastle University, with research focused on energy-efficient AI inference on constrained hardware.
 
 ## 🔬 Current Research
-- Embedded Early-Exit ML inference across STM32, MSP430, ESP32 and FPGA
+- Embedded early-exit ML inference across STM32, MSP430 and FPGA, with bit-identical results across platforms
 - VHDL hardware design and real-time systems
-- Energy-aware embedded AI deployment
-- Contributing author on embedded anomaly detection paper (under peer review)
+- Energy-aware embedded AI deployment, measured on a source-measure rig
+- Second author on a conference paper on hardware/software co-design for anomaly screening (currently under review)
+- Invited speaker, Innovative Tech Conference, FUTO (Oct 2024)
 
 ## 🛠️ Tech Stack
 
