@@ -7,7 +7,7 @@ I'm an Embedded Systems Engineer specialising in edge AI, FPGA development, and 
 - VHDL hardware design and real-time systems
 - Energy-aware embedded AI deployment, measured on a source-measure rig
 - Second author on a conference paper on hardware/software co-design for anomaly screening (currently under review)
-- Invited speaker, Innovative Tech Conference, FUTO (Oct 2024)
+- Invited speaker at a university technology conference (Oct 2024)
 
 ## 🛠️ Tech Stack
 
