@@ -28,5 +28,5 @@ I'm an Embedded Systems Engineer specialising in edge AI, FPGA development, and 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uwaagbai@outlook.com)
 
 ## 📊 GitHub Stats
-[![Uwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaagbai1&show_icons=true&count_private=true&include_all_commits=true&theme=default)](https://github.com/uwaagbai1)
+[![Uwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwaagbai1&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide=contribs)](https://github.com/uwaagbai1)
 [![Uwa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uwaagbai1&count_private=true)](https://github.com/uwaagbai1)
