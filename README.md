@@ -13,12 +13,10 @@ Runs on a NUCLEO-L476RG or a Renode virtual board. Early alpha.
 ESP8266 + BME680 over Wi-Fi/MQTT, with offline buffering and remote commands.
 Flask backend, ML model comparison, React dashboard.
 
-## Research
+## Interests
 
-Early-exit inference on microcontrollers: same fixed-point C on an MSP430 and
-two STM32s, cutting energy per decision by up to 51%, measured on the board.
-One conference paper under review (second author, hardware), two in
-preparation (one as sole author).
+Low-power embedded ML, early-exit inference on microcontrollers, FPGA
+acceleration and hardware-in-the-loop testing.
 
 ## Contact
 
