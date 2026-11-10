@@ -3,6 +3,15 @@
 Embedded systems engineer in Newcastle, UK. Low-power firmware, edge AI and
 FPGA design, measured on real hardware.
 
+## Open source
+
+- **[Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/pulls?q=author%3Auwaagbai1)**:
+  compiler-warning clean-up
+- **[MicroPython](https://github.com/micropython/micropython/pulls?q=author%3Auwaagbai1)**:
+  STM32 port fixes (UART, clock, sleep, RTC)
+- **[Renode](https://github.com/renode/renode-infrastructure/pull/280)**:
+  MSP430X emulator fix
+
 ## Projects
 
 **[Siligent](https://github.com/uwaagbai1/siligent)**: lets AI coding agents
